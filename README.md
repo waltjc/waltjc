@@ -1,4 +1,4 @@
-Atualmente estou cursando o **4° período em Sistemas para Internet** no IFSPE, durante o percusso eu pude de usar variadas <br> **tecnologias e linguagens de programação!**
+Atualmente estou cursando o **4° período em Sistemas para Internet** no IFSPE, durante o percusso eu pude de usar variadas <br> **tecnologias e linguagens de programação. Atualmente estou participando do GPRO (Grupo de Pesquisa em Redes de Computadores, Otimização e Automação).**
 
 <div style="center">
   <a href="https://github.com/waltjc">
