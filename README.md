@@ -1,4 +1,4 @@
-Atualmente estou cursando o **4° período em Sistemas para Internet**, durante o percusso eu pude de usar variadas <br> **tecnologias e linguagens de programação!**
+Atualmente estou cursando o **4° período em Sistemas para Internet** no IFSPE, durante o percusso eu pude de usar variadas <br> **tecnologias e linguagens de programação!**
 
 <div style="center">
   <a href="https://github.com/waltjc">
