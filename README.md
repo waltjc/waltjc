@@ -14,4 +14,3 @@ Atualmente estou cursando o **4° período em Sistemas para Internet**, durante 
   <img align="center" alt="Wj_HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Wj_CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
- 
