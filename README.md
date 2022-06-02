@@ -1,4 +1,8 @@
+## <em> Olá, seja bem vindo!</em>
+<img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/coderman.gif" width="320">
+
 ## Um pouco sobre mim...
+
 ```javascript
 const Walt = {
   code: [Python, Java SE/EE, Javascript, HTML, CSS],
@@ -9,4 +13,4 @@ const Walt = {
             },
 }
 ```
-# <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/coderman.gif">
+
