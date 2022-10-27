@@ -7,11 +7,6 @@
 const Walt = {
   code: [Python, Java SE/EE, Javascript, HTML, CSS],
   tools: [React Native, Django, Styled-Components, Ionic],
-  projects: {
-              member: "GPRO",
-              since: "2022.1"
-            },
-}
 ```
 
 [![GitHub Walter Jose](https://img.shields.io/github/followers/waltjc?label=follow&style=social)](https://github.com/waltjc) 
